@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.parentdiv {
+    border-radius: 8px;
+    /* width: 50%; */
+    /* margin-left: 25%; */
+    background-color: white;
+
+}
+
+.Webber {
+    background-color: hsl(210, 60%, 98%);
+    border-radius: 10px;
+    margin-top: 2px;
+}
+
+.imageset {
+    height: 30px;
+}
+
+.iamge2 {
+    height: 35px;
+}
+
+
+.backColor {
+    background-color: rgba(249, 250, 254, 255);
+    height: 100vh;
+}
+
+.content {
+    font-weight: 900;
+    color: #525359;
+}
+
+.notifications {
+    background-color: rgba(5, 45, 115, 255);
+    color: white;
+    padding: 4px 10px 4px 10px;
+    font-weight: 800 !important;
+    border-radius: 7px;
+}
+
+.para {
+    font-size: 12px;
+    font-weight: 700;
+    text-align: end;
+    color: #666a72;
+
+}
+
+.message {
+    color: #666a72;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 0%;
+
+}
+
+.name {
+    font-weight: 800;
+    color: #525359;
+    font-size: 14px;
+    line-height: 0%;
+
+}
+.Chess{
+    color:hsl(219, 85%, 26%) ;
+    font-weight: 700;
+    line-height: 0px;
+
+}
+.Chess1{
+    color:hsl(219, 85%, 26%) ;
+    font-weight: 700;
+    line-height: 0px;
+
+}
+
+.sender {
+    font-weight: 600;
+    color: #525359;
+    line-height: 0px;
+
+}
+.lowersender{
+    line-height: 0px;
+    color: #525359;
+    font-weight: 600;
+    font-size: 12px;
+
+
+}
+
+.dot {
+    border-radius: 100%;
+    background-color: red;
+    padding: 1px;
+}
+
+.time {
+    color: #666a72;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 0%;
+}
+
+.paragraph {
+    font-size: 12px;
+    color: #666a72;
+    font-size: 12px;
+    font-weight: 400;
+    /* margin-left: 15%; */
+    padding-right: 0%;
+}
+
+.paragraph:hover{
+    background-color:#e5eff9;
+}
+.para:hover{
+    /* color:hsl(219, 85%, 26%) ; */
+    color: rgba(5, 45, 115, 255);
+    
+}
+.name:hover{
+    color: rgba(5, 45, 115, 255);
+}
+.sender1:hover{
+    color: rgba(5, 45, 115, 255);
+}
+.Chess1:hover{
+    color: rgba(5, 45, 115, 255);
+
+}
